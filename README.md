@@ -5,4 +5,4 @@ MtoZ Biolabs is an integrate contract research organization (CRO) providing adva
 
 
 Lasted articles
-- [MS-Based-Protein-Identification-Service-MtoZ-Biolabs](https://JackJHiggins.github.io/MtoZ-Biolabs/MS-Based-Protein-Identification-Service-MtoZ-Biolabs.html)
+- [MS-Based-Protein-Identification-Service-MtoZ-Biolabs](https://mtoz-biolabs.github.io/MtoZ-Biolabs/MS-Based-Protein-Identification-Service-MtoZ-Biolabs.html)
