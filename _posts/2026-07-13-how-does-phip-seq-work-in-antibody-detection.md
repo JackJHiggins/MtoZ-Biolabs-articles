@@ -40,7 +40,7 @@ Sequencing results are converted into peptide enrichment signals, which can be u
 Compared with targeted assays such as ELISA, PhIP-Seq is not mainly used to confirm one known antigen. Its value lies in screening a broad antigen space and identifying candidates for downstream validation.
 
 <p style="text-align:center;">
-  <img src="/MtoZ-Biolabs/images/how-does-phip-seq-work-in-antibody-detection1.webp" alt="how-does-phip-seq-work-in-antibody-detection1">
+  <img src="/MtoZ-Biolabs/images/how-does-phip-seq-work-in-antibody-detection-1.webp" alt="how-does-phip-seq-work-in-antibody-detection1">
 </p>
 
 <p style="text-align:center; font-weight:bold;">
@@ -94,7 +94,7 @@ If multiple adjacent peptides from the same protein show consistent enrichment, 
 PhIP-Seq results are better suited for discovery-stage screening than for direct diagnostic conclusions. Candidate antigens or epitopes usually require further validation using ELISA, Western blotting, protein microarrays, or other orthogonal methods.
 
 <p style="text-align:center;">
-  <img src="/MtoZ-Biolabs/images/how-does-phip-seq-work-in-antibody-detection2.webp" alt="how-does-phip-seq-work-in-antibody-detection2">
+  <img src="/MtoZ-Biolabs/images/how-does-phip-seq-work-in-antibody-detection-2.webp" alt="how-does-phip-seq-work-in-antibody-detection2">
 </p>
 
 <p style="text-align:center; font-weight:bold;">
